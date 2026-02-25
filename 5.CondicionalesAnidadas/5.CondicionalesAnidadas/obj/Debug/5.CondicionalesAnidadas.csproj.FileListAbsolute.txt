@@ -1,0 +1,7 @@
+C:\SOJ2\FundamentosDProgramacion\5.CondicionalesAnidadas\5.CondicionalesAnidadas\bin\Debug\5.CondicionalesAnidadas.exe.config
+C:\SOJ2\FundamentosDProgramacion\5.CondicionalesAnidadas\5.CondicionalesAnidadas\bin\Debug\5.CondicionalesAnidadas.exe
+C:\SOJ2\FundamentosDProgramacion\5.CondicionalesAnidadas\5.CondicionalesAnidadas\bin\Debug\5.CondicionalesAnidadas.pdb
+C:\SOJ2\FundamentosDProgramacion\5.CondicionalesAnidadas\5.CondicionalesAnidadas\obj\Debug\5.CondicionalesAnidadas.csproj.AssemblyReference.cache
+C:\SOJ2\FundamentosDProgramacion\5.CondicionalesAnidadas\5.CondicionalesAnidadas\obj\Debug\5.CondicionalesAnidadas.csproj.CoreCompileInputs.cache
+C:\SOJ2\FundamentosDProgramacion\5.CondicionalesAnidadas\5.CondicionalesAnidadas\obj\Debug\5.CondicionalesAnidadas.exe
+C:\SOJ2\FundamentosDProgramacion\5.CondicionalesAnidadas\5.CondicionalesAnidadas\obj\Debug\5.CondicionalesAnidadas.pdb
