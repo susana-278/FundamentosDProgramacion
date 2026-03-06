@@ -1,0 +1,7 @@
+C:\SOJ2\FundamentosDProgramacion\8.3Parcial\8.3Parcial\bin\Debug\8.3Parcial.exe.config
+C:\SOJ2\FundamentosDProgramacion\8.3Parcial\8.3Parcial\bin\Debug\8.3Parcial.exe
+C:\SOJ2\FundamentosDProgramacion\8.3Parcial\8.3Parcial\bin\Debug\8.3Parcial.pdb
+C:\SOJ2\FundamentosDProgramacion\8.3Parcial\8.3Parcial\obj\Debug\8.3Parcial.csproj.AssemblyReference.cache
+C:\SOJ2\FundamentosDProgramacion\8.3Parcial\8.3Parcial\obj\Debug\8.3Parcial.csproj.CoreCompileInputs.cache
+C:\SOJ2\FundamentosDProgramacion\8.3Parcial\8.3Parcial\obj\Debug\8.3Parcial.exe
+C:\SOJ2\FundamentosDProgramacion\8.3Parcial\8.3Parcial\obj\Debug\8.3Parcial.pdb
