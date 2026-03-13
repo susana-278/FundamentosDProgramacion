@@ -1,0 +1,7 @@
+C:\SOJ2\FundamentosDProgramacion\11.CicloWhile2\11.CicloWhile2\bin\Debug\11.CicloWhile2.exe.config
+C:\SOJ2\FundamentosDProgramacion\11.CicloWhile2\11.CicloWhile2\bin\Debug\11.CicloWhile2.exe
+C:\SOJ2\FundamentosDProgramacion\11.CicloWhile2\11.CicloWhile2\bin\Debug\11.CicloWhile2.pdb
+C:\SOJ2\FundamentosDProgramacion\11.CicloWhile2\11.CicloWhile2\obj\Debug\11.CicloWhile2.csproj.AssemblyReference.cache
+C:\SOJ2\FundamentosDProgramacion\11.CicloWhile2\11.CicloWhile2\obj\Debug\11.CicloWhile2.csproj.CoreCompileInputs.cache
+C:\SOJ2\FundamentosDProgramacion\11.CicloWhile2\11.CicloWhile2\obj\Debug\11.CicloWhile2.exe
+C:\SOJ2\FundamentosDProgramacion\11.CicloWhile2\11.CicloWhile2\obj\Debug\11.CicloWhile2.pdb
