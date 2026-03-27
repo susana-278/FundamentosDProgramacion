@@ -1,0 +1,7 @@
+C:\SOJ2\FundamentosDProgramacion\17.TallerCiclos\17.TallerCiclos\bin\Debug\17.TallerCiclos.exe.config
+C:\SOJ2\FundamentosDProgramacion\17.TallerCiclos\17.TallerCiclos\bin\Debug\17.TallerCiclos.exe
+C:\SOJ2\FundamentosDProgramacion\17.TallerCiclos\17.TallerCiclos\bin\Debug\17.TallerCiclos.pdb
+C:\SOJ2\FundamentosDProgramacion\17.TallerCiclos\17.TallerCiclos\obj\Debug\17.TallerCiclos.csproj.AssemblyReference.cache
+C:\SOJ2\FundamentosDProgramacion\17.TallerCiclos\17.TallerCiclos\obj\Debug\17.TallerCiclos.csproj.CoreCompileInputs.cache
+C:\SOJ2\FundamentosDProgramacion\17.TallerCiclos\17.TallerCiclos\obj\Debug\17.TallerCiclos.exe
+C:\SOJ2\FundamentosDProgramacion\17.TallerCiclos\17.TallerCiclos\obj\Debug\17.TallerCiclos.pdb
