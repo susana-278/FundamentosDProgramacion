@@ -1,0 +1,7 @@
+C:\SOJ2\FundamentosDProgramacion\18.TallerVectores\18.TallerVectores\bin\Debug\18.TallerVectores.exe.config
+C:\SOJ2\FundamentosDProgramacion\18.TallerVectores\18.TallerVectores\bin\Debug\18.TallerVectores.exe
+C:\SOJ2\FundamentosDProgramacion\18.TallerVectores\18.TallerVectores\bin\Debug\18.TallerVectores.pdb
+C:\SOJ2\FundamentosDProgramacion\18.TallerVectores\18.TallerVectores\obj\Debug\18.TallerVectores.csproj.AssemblyReference.cache
+C:\SOJ2\FundamentosDProgramacion\18.TallerVectores\18.TallerVectores\obj\Debug\18.TallerVectores.csproj.CoreCompileInputs.cache
+C:\SOJ2\FundamentosDProgramacion\18.TallerVectores\18.TallerVectores\obj\Debug\18.TallerVectores.exe
+C:\SOJ2\FundamentosDProgramacion\18.TallerVectores\18.TallerVectores\obj\Debug\18.TallerVectores.pdb
