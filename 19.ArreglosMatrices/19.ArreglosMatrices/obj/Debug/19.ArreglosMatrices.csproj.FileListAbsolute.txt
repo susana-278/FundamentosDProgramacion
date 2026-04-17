@@ -1,0 +1,7 @@
+C:\SOJ2\FundamentosDProgramacion\19.ArreglosMatrices\19.ArreglosMatrices\bin\Debug\19.ArreglosMatrices.exe.config
+C:\SOJ2\FundamentosDProgramacion\19.ArreglosMatrices\19.ArreglosMatrices\bin\Debug\19.ArreglosMatrices.exe
+C:\SOJ2\FundamentosDProgramacion\19.ArreglosMatrices\19.ArreglosMatrices\bin\Debug\19.ArreglosMatrices.pdb
+C:\SOJ2\FundamentosDProgramacion\19.ArreglosMatrices\19.ArreglosMatrices\obj\Debug\19.ArreglosMatrices.csproj.AssemblyReference.cache
+C:\SOJ2\FundamentosDProgramacion\19.ArreglosMatrices\19.ArreglosMatrices\obj\Debug\19.ArreglosMatrices.csproj.CoreCompileInputs.cache
+C:\SOJ2\FundamentosDProgramacion\19.ArreglosMatrices\19.ArreglosMatrices\obj\Debug\19.ArreglosMatrices.exe
+C:\SOJ2\FundamentosDProgramacion\19.ArreglosMatrices\19.ArreglosMatrices\obj\Debug\19.ArreglosMatrices.pdb
