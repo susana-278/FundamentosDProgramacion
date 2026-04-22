@@ -1,0 +1,7 @@
+C:\SOJ2\FundamentosDProgramacion\20.TallerMatrices\20.TallerMatrices\bin\Debug\20.TallerMatrices.exe.config
+C:\SOJ2\FundamentosDProgramacion\20.TallerMatrices\20.TallerMatrices\bin\Debug\20.TallerMatrices.exe
+C:\SOJ2\FundamentosDProgramacion\20.TallerMatrices\20.TallerMatrices\bin\Debug\20.TallerMatrices.pdb
+C:\SOJ2\FundamentosDProgramacion\20.TallerMatrices\20.TallerMatrices\obj\Debug\20.TallerMatrices.csproj.AssemblyReference.cache
+C:\SOJ2\FundamentosDProgramacion\20.TallerMatrices\20.TallerMatrices\obj\Debug\20.TallerMatrices.csproj.CoreCompileInputs.cache
+C:\SOJ2\FundamentosDProgramacion\20.TallerMatrices\20.TallerMatrices\obj\Debug\20.TallerMatrices.exe
+C:\SOJ2\FundamentosDProgramacion\20.TallerMatrices\20.TallerMatrices\obj\Debug\20.TallerMatrices.pdb
