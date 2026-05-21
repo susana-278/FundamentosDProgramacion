@@ -1,0 +1,14 @@
+C:\Users\B15S201est\source\repos\final2\final2\bin\Debug\final2.exe.config
+C:\Users\B15S201est\source\repos\final2\final2\bin\Debug\final2.exe
+C:\Users\B15S201est\source\repos\final2\final2\bin\Debug\final2.pdb
+C:\Users\B15S201est\source\repos\final2\final2\obj\Debug\final2.csproj.AssemblyReference.cache
+C:\Users\B15S201est\source\repos\final2\final2\obj\Debug\final2.csproj.CoreCompileInputs.cache
+C:\Users\B15S201est\source\repos\final2\final2\obj\Debug\final2.exe
+C:\Users\B15S201est\source\repos\final2\final2\obj\Debug\final2.pdb
+C:\Users\B15S201est\Documents\final2\final2\bin\Debug\final2.exe.config
+C:\Users\B15S201est\Documents\final2\final2\bin\Debug\final2.exe
+C:\Users\B15S201est\Documents\final2\final2\bin\Debug\final2.pdb
+C:\Users\B15S201est\Documents\final2\final2\obj\Debug\final2.csproj.AssemblyReference.cache
+C:\Users\B15S201est\Documents\final2\final2\obj\Debug\final2.csproj.CoreCompileInputs.cache
+C:\Users\B15S201est\Documents\final2\final2\obj\Debug\final2.exe
+C:\Users\B15S201est\Documents\final2\final2\obj\Debug\final2.pdb
